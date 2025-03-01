@@ -6,3 +6,11 @@
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
+
+#Daftar perintah GIT
+- git clone <url-repository>
+- git add <file>
+- git commit -m <deskripsi>
+- git checkout
+- git merge <nama-branch>
+- git push origin main
